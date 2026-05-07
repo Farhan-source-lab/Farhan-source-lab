@@ -20,10 +20,10 @@ I build intelligent web applications and digital learning platforms. I am passio
 
 ### 📊 GitHub Stats
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=Farhan-source-lab&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Farhan-source-labE&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-source-lab&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Connect with me
-- 🌐 [Portfolio/Academy Link]
-- 💼 [LinkedIn Profile]
+- 🌐 [Portfolio/Academy Link]  --will be added soon.
+- 💼 [LinkedIn Profile]  --will be added soon.
