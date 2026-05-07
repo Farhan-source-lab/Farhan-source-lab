@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed Farhan
+### Developer | Educator | AI Enthusiast
 
-<!--
-**Farhan-source-lab/Farhan-source-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **AI Agent Frameworks**
+- ⚡ Tech Stack: **TypeScript, Python, Docker, PostgreSQL**
+- 💬 Ask me about **Web Development & Cybersecurity**
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&theme=vision-friendly-dark)
