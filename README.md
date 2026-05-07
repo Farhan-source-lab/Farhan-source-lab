@@ -1,13 +1,29 @@
-# 👋 Hi, I'm Mohammed Farhan
-### Developer | Educator | AI Enthusiast
+# Hi there, I'm Mohammed Farhan 👋
 
-- 🔭 I’m currently working on **AI Agent Frameworks**
-- ⚡ Tech Stack: **TypeScript, Python, Docker, PostgreSQL**
-- 💬 Ask me about **Web Development & Cybersecurity**
+### Developer | Educator | AI Researcher
 
-## 🛠️ My Tech Stack
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+I build intelligent web applications and digital learning platforms. I am passionate about bridging the gap between complex technology and accessible education.
 
-## 📊 My GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Farhan-source-lab&theme=vision-friendly-dark)
+---
+
+### 🚀 Current Focus
+- **AI Agents:** Developing and testing frameworks like **OpenClaw** and **PicoClaw**.
+- **Cybersecurity:** Automating red teaming and vulnerability scanning.
+- **Education:** Creating content and tools for **TechZone Academy**.
+
+### 🛠 Tech Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/WSL%20/%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### 📊 GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Farhan-source-lab&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Farhan-source-labE&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+- 🌐 [Portfolio/Academy Link]
+- 💼 [LinkedIn Profile]
