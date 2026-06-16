@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed Farhan 👋
+# Hey, I'm Mohammed Farhan .
 
 ### Developer | Educator | AI Researcher
 
