@@ -25,5 +25,5 @@ I build intelligent web applications and digital learning platforms. I am passio
 ---
 
 ### 📫 Connect with me
-- 🌐 [Portfolio/Academy Link]  --will be added soon.
+- farru-folio.vercel.app
 - 💼 [LinkedIn Profile]  --will be added soon.
